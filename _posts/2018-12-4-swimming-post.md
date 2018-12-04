@@ -3,7 +3,7 @@ layout: post
 Title: how to swim
 ---
 
-![image title](/images/swimming .jpg)
+![Swimming](/images/swim.jpeg)
 
 ## how to swim
 

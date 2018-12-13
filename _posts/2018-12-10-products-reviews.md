@@ -3,7 +3,7 @@ layout: post
 Title: sports products
 ---
 
-![soccer ](/images/soccer .webp)
+![soccer ](/images/soccer.jpeg)
 
 ## soccer ball 
 
